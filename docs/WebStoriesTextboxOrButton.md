@@ -1,0 +1,45 @@
+# WebStoriesTextboxOrButton
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**background_color** | **str** |  | [optional] 
+**border** | **bool** |  | [optional] 
+**border_bottom** | **bool** |  | [optional] 
+**border_color** | **str** |  | [optional] 
+**border_left** | **bool** |  | [optional] 
+**border_right** | **bool** |  | [optional] 
+**border_style** | **str** |  | [optional] 
+**border_top** | **bool** |  | [optional] 
+**bottom** | **bool** |  | [optional] 
+**bottom_alignment** | **bool** |  | [optional] 
+**bottom_margin** | **str** |  | [optional] 
+**bottom_padding** | **str** |  | [optional] 
+**corner_radius** | **str** |  | [optional] 
+**font_color** | **str** |  | [optional] 
+**font_family** | **str** |  | [optional] 
+**font_size** | **str** |  | [optional] 
+**font_style** | **str** |  | [optional] 
+**left** | **bool** |  | [optional] 
+**left_alignment** | **bool** |  | [optional] 
+**left_margin** | **str** |  | [optional] 
+**left_right_center** | **bool** |  | [optional] 
+**position** | **str** |  | [optional] 
+**right** | **bool** |  | [optional] 
+**right_alignment** | **bool** |  | [optional] 
+**right_margin** | **str** |  | [optional] 
+**text** | **str** |  | [optional] 
+**text_alignment** | **str** |  | [optional] 
+**text_transform** | **str** |  | [optional] 
+**textbox_css** | **object** |  | [optional] 
+**top** | **bool** |  | [optional] 
+**top_alignment** | **bool** |  | [optional] 
+**top_bottom_center** | **bool** |  | [optional] 
+**top_margin** | **str** |  | [optional] 
+**top_padding** | **str** |  | [optional] 
+**type** | **str** |  | [optional] 
+**url** | **str** |  | [optional] 
+**width** | **str** |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+

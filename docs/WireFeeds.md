@@ -1,0 +1,47 @@
+# WireFeeds
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**agency** | **str** |  | [optional] 
+**articles_id_list** | **list[int]** |  | [optional] 
+**auto_publish** | **bool** |  | [optional] 
+**auto_publish_error** | **list[str]** |  | [optional] 
+**by_line** | **str** |  | [optional] 
+**by_line_title** | **str** |  | [optional] 
+**caption** | **str** |  | [optional] 
+**city** | **str** |  | [optional] 
+**copy_counter** | **int** |  | [optional] 
+**country_name** | **str** |  | [optional] 
+**cover_image_url** | **str** |  | [optional] 
+**credit** | **str** |  | [optional] 
+**domain_id** | **str** |  | [optional] 
+**feed_sub_type** | **str** |  | [optional] 
+**feed_type** | **str** |  | [optional] 
+**file_name** | **str** |  | [optional] 
+**first_published_date** | **str** |  | [optional] 
+**first_published_timestamp** | **int** |  | [optional] 
+**headline** | **str** |  | [optional] 
+**id** | **str** |  | [optional] 
+**issue_date** | **str** |  | [optional] 
+**keyword** | **str** |  | [optional] 
+**language** | **str** |  | [optional] 
+**last_modified_date** | **str** |  | [optional] 
+**location** | **str** |  | [optional] 
+**object_name** | **str** |  | [optional] 
+**picked_up_flag** | **int** |  | [optional] 
+**prepub_feed** | **bool** |  | [optional] 
+**section** | **str** |  | [optional] 
+**seo_score_id_list** | **list[str]** |  | [optional] 
+**source** | **str** |  | [optional] 
+**status** | **str** |  | [optional] 
+**story** | [**list[WireFeedsStory]**](WireFeedsStory.md) |  | [optional] 
+**story_published_counter** | **int** |  | [optional] 
+**suggest** | [**Completion**](Completion.md) |  | [optional] 
+**thumbnail_image_name** | **str** |  | [optional] 
+**timestamp** | **int** |  | [optional] 
+**urgency** | **str** |  | [optional] 
+**wire_published_stories** | [**list[WirePublishedStory]**](WirePublishedStory.md) |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
